@@ -6,4 +6,4 @@
 
 <br />
 
-![Sasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasamarjanovic295&show_icons=true&theme=greywhite)
+![Sasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasamarjanovic295&show_icons=true&theme=graywhite)
