@@ -5,6 +5,6 @@
 - 🤔 I'm looking for help to find out which programming job is best for me!
 
 <br />
-#Please don't worry, the stats will be much better...
+# Please don't worry, the stats will be much better...
 
 ![Sasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sasamarjanovic295&show_icons=true&theme=graywhite)
